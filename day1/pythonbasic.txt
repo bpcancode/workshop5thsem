@@ -1,0 +1,10 @@
+AI and Machine Learning introduction
+
+variables
+prints / input
+loops
+arrays(zip, filter, map)
+if else
+dict => javascript object
+datatypes: int, float, strings etc
+ranges
