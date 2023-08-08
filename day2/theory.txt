@@ -1,0 +1,34 @@
+supervised learing (input -> x, output -> y, x depend on y or vice versa, labeled data) 
+   ->Dependend variable 
+   ->Independend variable 
+
+unsupervised learing 
+reinforcement learing 
+
+Dataset => csv file 
+
+Model trained garda(80% training, 20% testing) 
+RMSE(root mean square error) 
+ 
+Supervised learning algorithm 
+
+linear regression 
+
+Hypothesis: 
+h0(x) = theta0 * x0 + theta1 * x1 + theta2 * x2 + .............. + thetan * xn 
+
+Cost function (j(theta)) 
+
+j(theta) = sqroot(2/m m(summation)i (h(x^i) - y^(i)^2)) 
+
+
+
+- Logistic regression 
+- Discrete value 
+
+
+- Binary classification 
+Cost function j(theta) = -1/m m(summation)i=1 [y^i * log(h(theta)x^i) + (1-y^i)(1-log(h0(x)^i))] 
+
+
+Anaconda installation
